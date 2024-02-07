@@ -1,0 +1,12 @@
+﻿@rootUrl = https://localhost:7039
+
+POST {{rootUrl}}/api/Crawler
+Content-Type: application/json
+
+{
+  "email": "teste@teste.com",
+  "password": "123456",
+  "invoiceIssuerId": "3fa85f64-5717-4562-b3fc-2c963f66afa6"
+}
+
+###

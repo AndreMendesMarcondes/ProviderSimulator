@@ -1,0 +1,6 @@
+﻿@rootUrl = https://localhost:7039
+
+GET {{rootUrl}}/api/ApiToken
+
+###
+GET {{rootUrl}}/api/ApiToken/Test
